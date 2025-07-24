@@ -5,5 +5,7 @@ This project is created as part of a Git and GitHub practice exercise. It helps 
 📌 Purpose
 
 Practice Git commands and workflows
+
 Learn version control fundamentals
+
 Understand GitHub collaboration features
